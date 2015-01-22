@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+** It presented code in segments that had changed or were different from one another.  But it didn't exactly tell me what was different.  
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+** There will be times when we branch off into a direction where the coding doesn't meet our objectives or causes problems.  It would be advantageous to back out of that coding easily and pick up from where you started.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+** Pros, you decide based on the work you are doing when it is best to commit a file.  You have to ability to commit by function or by smaller tasks.  Google docs doesn't provide this flexibility.  On the other hand, you may not commit enough and find your final commit size too large.  In this regard, Google Docs saves your file automatically and periodically.  
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+** Google docs was not developed with coding in mind.  That is, one file being interelated to another file(s) through their coding.
+
+How can you use the commands git log and git diff to view the history of files?
+
+** Use git log to locate the change you seek so that you can locate the commit ID and the preceding commit ID.  With these two commit IDs you will be able to review lines that were either insertions or deletions.
+
+How might using version control make you more confident to make changes that could break something?
+
+**  It would increase my confidence because I could branch off and try something new without disturbing the current code branch.  And it's very easy to back track on an error.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+**  I have a project at work that requires manipulation of a large CVS file.  There will be times when I need to tweak my work to try something new, yet have the original available should the test now work out.
