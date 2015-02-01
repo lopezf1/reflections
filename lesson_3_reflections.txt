@@ -6,3 +6,7 @@ continue working on my project when I am away from my local computer.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 ** You want to keep the amount of commits down to a reasonable level.  That is, reduce the number and only commit when the changes are meaningful.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+** Forking allows you to copy another person's respository on GitHub (but not to your local computer).  The owner's repository is not changed by any work done in the forked repository.  Cloning allows you to copy another person's GitHub respository to your local computer.  Branching allows you to diverge from the main line of development and continue to do work.
