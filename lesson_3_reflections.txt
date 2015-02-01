@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+** Because the remote respository is public, it allows others to review and contribute to my project.  It also allows me to
+continue working on my project when I am away from my local computer.
